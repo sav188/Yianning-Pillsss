@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <img src="your_image_url" alt="Your Image">
+</body>
+</html>
